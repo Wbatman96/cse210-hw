@@ -4,6 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Bonjour tout le monde");
+        int x = 10;
+
+        if (x == 10)
+            Console.WriteLine("X = 10");
+
     }
 }
